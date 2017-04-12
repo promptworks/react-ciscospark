@@ -73,7 +73,7 @@
     "uuid": "^3.0.1"
   },
   "devDependencies": {
-    "@ciscospark/eslint-config": "^0.7.64",
+    "@ciscospark/eslint-config": "^0.7.82",
     "@ciscospark/test-helper-file": "^0.7.69",
     "@ciscospark/test-helper-server": "^0.7.69",
     "@ciscospark/test-helper-test-users": "^0.7.69",
